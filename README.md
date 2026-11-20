@@ -2,9 +2,9 @@
 
 **Descarga oficial de GLIVU® Studio** · **Official download of GLIVU® Studio**
 
-Entorno de desarrollo de escritorio para crear y probar orbes para GLIVU® Orbes y GLIVU® Kurio. Disponible para macOS, Windows y Linux.
+Entorno de desarrollo de escritorio para crear y probar orbes para GLIVU® Orbes y GLIVU® Chat. Disponible para macOS, Windows y Linux.
 
-Desktop development environment to build and test orbs for GLIVU® Orbes and GLIVU® Kurio. Available for macOS, Windows and Linux.
+Desktop development environment to build and test orbs for GLIVU® Orbes and GLIVU® Chat. Available for macOS, Windows and Linux.
 
 ---
 
